@@ -16,6 +16,7 @@
 		CE39BEBF1F0533B8007C4542 /* ImageAreaStretchDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE39BEBE1F0533B8007C4542 /* ImageAreaStretchDemoTests.m */; };
 		CE39BECA1F0533B8007C4542 /* ImageAreaStretchDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE39BEC91F0533B8007C4542 /* ImageAreaStretchDemoUITests.m */; };
 		CE39BED81F05342A007C4542 /* theImage.png in Resources */ = {isa = PBXBuildFile; fileRef = CE39BED71F05342A007C4542 /* theImage.png */; };
+		CE39BEDA1F053A47007C4542 /* demo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE39BED91F053A47007C4542 /* demo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		CE39BEC91F0533B8007C4542 /* ImageAreaStretchDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageAreaStretchDemoUITests.m; sourceTree = "<group>"; };
 		CE39BECB1F0533B8007C4542 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE39BED71F05342A007C4542 /* theImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = theImage.png; sourceTree = "<group>"; };
+		CE39BED91F053A47007C4542 /* demo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = demo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				CE39BEBD1F0533B8007C4542 /* ImageAreaStretchDemoTests */,
 				CE39BEC81F0533B8007C4542 /* ImageAreaStretchDemoUITests */,
 				CE39BEA21F0533B8007C4542 /* Products */,
+				CE39BED91F053A47007C4542 /* demo.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -250,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE39BED81F05342A007C4542 /* theImage.png in Resources */,
+				CE39BEDA1F053A47007C4542 /* demo.jpg in Resources */,
 				CE39BEB41F0533B8007C4542 /* LaunchScreen.storyboard in Resources */,
 				CE39BEB11F0533B8007C4542 /* Assets.xcassets in Resources */,
 				CE39BEAF1F0533B8007C4542 /* Main.storyboard in Resources */,
