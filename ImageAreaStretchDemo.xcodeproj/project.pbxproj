@@ -15,6 +15,7 @@
 		CE39BEB41F0533B8007C4542 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE39BEB21F0533B8007C4542 /* LaunchScreen.storyboard */; };
 		CE39BEBF1F0533B8007C4542 /* ImageAreaStretchDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE39BEBE1F0533B8007C4542 /* ImageAreaStretchDemoTests.m */; };
 		CE39BECA1F0533B8007C4542 /* ImageAreaStretchDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE39BEC91F0533B8007C4542 /* ImageAreaStretchDemoUITests.m */; };
+		CE39BED81F05342A007C4542 /* theImage.png in Resources */ = {isa = PBXBuildFile; fileRef = CE39BED71F05342A007C4542 /* theImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		CE39BEC51F0533B8007C4542 /* ImageAreaStretchDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageAreaStretchDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE39BEC91F0533B8007C4542 /* ImageAreaStretchDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageAreaStretchDemoUITests.m; sourceTree = "<group>"; };
 		CE39BECB1F0533B8007C4542 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE39BED71F05342A007C4542 /* theImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = theImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				CE39BEB01F0533B8007C4542 /* Assets.xcassets */,
 				CE39BEB21F0533B8007C4542 /* LaunchScreen.storyboard */,
 				CE39BEB51F0533B8007C4542 /* Info.plist */,
+				CE39BED71F05342A007C4542 /* theImage.png */,
 				CE39BEA41F0533B8007C4542 /* Supporting Files */,
 			);
 			path = ImageAreaStretchDemo;
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE39BED81F05342A007C4542 /* theImage.png in Resources */,
 				CE39BEB41F0533B8007C4542 /* LaunchScreen.storyboard in Resources */,
 				CE39BEB11F0533B8007C4542 /* Assets.xcassets in Resources */,
 				CE39BEAF1F0533B8007C4542 /* Main.storyboard in Resources */,
